@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d078e684aaa33c345b1d2a816137e07a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229578
+  packageName: AI Tree - Behavior Trees for Unity
+  packageVersion: 1.10.1
+  assetPath: Assets/RenownedGames/AITree/Core/Editor/EditorResources/Integrations/vis2k/MirrorNetwork.unitypackage
+  uploadId: 685856

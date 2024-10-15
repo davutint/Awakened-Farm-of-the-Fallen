@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4178423183633997122
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: 635b65a8ca4944a069f747f461e37cc5, type: 2}
+  targetRig: {fileID: 11400000, guid: fdbc2f2f0981a4a2a9d533954f932bc1, type: 2}
+  featureWeight: 1
+  sourceChain: Root
+  targetChain: Root
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &-4081737704027980969
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: 635b65a8ca4944a069f747f461e37cc5, type: 2}
+  targetRig: {fileID: 11400000, guid: fdbc2f2f0981a4a2a9d533954f932bc1, type: 2}
+  featureWeight: 1
+  sourceChain: Mag
+  targetChain: Mag
+  scaleWeight: 0
+  translationWeight: 1
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &-1421433905124310533
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c037f4882c5493a84c1732694149815, type: 3}
+  m_Name: IKRetargetFeature
+  m_EditorClassIdentifier: 
+  sourceRig: {fileID: 11400000, guid: 635b65a8ca4944a069f747f461e37cc5, type: 2}
+  targetRig: {fileID: 11400000, guid: fdbc2f2f0981a4a2a9d533954f932bc1, type: 2}
+  featureWeight: 1
+  sourceChain: Bolt
+  targetChain: Bolt
+  scaleWeight: 1
+  translationWeight: 0
+  offset: {x: 0, y: 0, z: 0}
+  ikWeight: 0
+  effectorOffset: {x: 0, y: 0, z: 0}
+  effectorOffsetSpace:
+    name: 
+    index: 0
+    isVirtual: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12349bae48c61824bb8e519537ce28eb, type: 3}
+  m_Name: Retarget_Rig_W_Mk18_ReloadEmpty_Rig_SM_Wep_Rifle_Assault_01
+  m_EditorClassIdentifier: 
+  sourceCharacter: {fileID: 0}
+  targetCharacter: {fileID: 0}
+  sourcePose: {fileID: 0}
+  targetPose: {fileID: 0}
+  sourceRig: {fileID: 11400000, guid: 635b65a8ca4944a069f747f461e37cc5, type: 2}
+  targetRig: {fileID: 11400000, guid: fdbc2f2f0981a4a2a9d533954f932bc1, type: 2}
+  excludeChain:
+    chainName: Elements To Exclude
+    elementChain: []
+    isStandalone: 1
+  retargetFeatures:
+  - {fileID: -4178423183633997122}
+  - {fileID: -1421433905124310533}
+  - {fileID: -4081737704027980969}

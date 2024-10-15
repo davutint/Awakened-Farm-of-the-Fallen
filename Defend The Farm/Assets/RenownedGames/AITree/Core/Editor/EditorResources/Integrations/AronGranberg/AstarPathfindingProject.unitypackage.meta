@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d36eadd8b5c89f4d875b64ade0e7b54
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229578
+  packageName: AI Tree - Behavior Trees for Unity
+  packageVersion: 1.10.1
+  assetPath: Assets/RenownedGames/AITree/Core/Editor/EditorResources/Integrations/AronGranberg/AstarPathfindingProject.unitypackage
+  uploadId: 685856

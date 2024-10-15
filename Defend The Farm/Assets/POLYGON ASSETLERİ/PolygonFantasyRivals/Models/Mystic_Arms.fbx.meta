@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 856ccb4eb1ecabc4a948351747ed9eea
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Arm_Root
+  - first:
+      1: 100002
+    second: Arms
+  - first:
+      1: 100004
+    second: Clavicle_L
+  - first:
+      1: 100006
+    second: Clavicle_R
+  - first:
+      1: 100008
+    second: Elbow_L
+  - first:
+      1: 100010
+    second: Elbow_R
+  - first:
+      1: 100012
+    second: Finger_01
+  - first:
+      1: 100014
+    second: Finger_01 1
+  - first:
+      1: 100016
+    second: Finger_02
+  - first:
+      1: 100018
+    second: Finger_02 1
+  - first:
+      1: 100020
+    second: Finger_03
+  - first:
+      1: 100022
+    second: Finger_03 1
+  - first:
+      1: 100024
+    second: Finger_04
+  - first:
+      1: 100026
+    second: Finger_04 1
+  - first:
+      1: 100028
+    second: Hand_L
+  - first:
+      1: 100030
+    second: Hand_R
+  - first:
+      1: 100032
+    second: IndexFinger_01
+  - first:
+      1: 100034
+    second: IndexFinger_01 1
+  - first:
+      1: 100036
+    second: IndexFinger_02
+  - first:
+      1: 100038
+    second: IndexFinger_02 1
+  - first:
+      1: 100040
+    second: IndexFinger_03
+  - first:
+      1: 100042
+    second: IndexFinger_03 1
+  - first:
+      1: 100044
+    second: IndexFinger_04
+  - first:
+      1: 100046
+    second: IndexFinger_04 1
+  - first:
+      1: 100048
+    second: //RootNode
+  - first:
+      1: 100050
+    second: Shoulder_L
+  - first:
+      1: 100052
+    second: Shoulder_R
+  - first:
+      1: 100054
+    second: Thumb_01
+  - first:
+      1: 100056
+    second: Thumb_01 1
+  - first:
+      1: 100058
+    second: Thumb_02
+  - first:
+      1: 100060
+    second: Thumb_02 1
+  - first:
+      1: 100062
+    second: Thumb_03
+  - first:
+      1: 100064
+    second: Thumb_03 1
+  - first:
+      1: 100066
+    second: Hips
+  - first:
+      1: 100068
+    second: Spine
+  - first:
+      1: 100070
+    second: Foot_LegLeft
+  - first:
+      1: 100072
+    second: Foot_LegRight
+  - first:
+      1: 100074
+    second: Lower_LegLeft
+  - first:
+      1: 100076
+    second: Lower_LegRight
+  - first:
+      1: 100078
+    second: Upper_LegLeft
+  - first:
+      1: 100080
+    second: Upper_LegRight
+  - first:
+      1: 100082
+    second: Head
+  - first:
+      1: 100084
+    second: Arms_01
+  - first:
+      4: 400000
+    second: Arm_Root
+  - first:
+      4: 400002
+    second: Arms
+  - first:
+      4: 400004
+    second: Clavicle_L
+  - first:
+      4: 400006
+    second: Clavicle_R
+  - first:
+      4: 400008
+    second: Elbow_L
+  - first:
+      4: 400010
+    second: Elbow_R
+  - first:
+      4: 400012
+    second: Finger_01
+  - first:
+      4: 400014
+    second: Finger_01 1
+  - first:
+      4: 400016
+    second: Finger_02
+  - first:
+      4: 400018
+    second: Finger_02 1
+  - first:
+      4: 400020
+    second: Finger_03
+  - first:
+      4: 400022
+    second: Finger_03 1
+  - first:
+      4: 400024
+    second: Finger_04
+  - first:
+      4: 400026
+    second: Finger_04 1
+  - first:
+      4: 400028
+    second: Hand_L
+  - first:
+      4: 400030
+    second: Hand_R
+  - first:
+      4: 400032
+    second: IndexFinger_01
+  - first:
+      4: 400034
+    second: IndexFinger_01 1
+  - first:
+      4: 400036
+    second: IndexFinger_02
+  - first:
+      4: 400038
+    second: IndexFinger_02 1
+  - first:
+      4: 400040
+    second: IndexFinger_03
+  - first:
+      4: 400042
+    second: IndexFinger_03 1
+  - first:
+      4: 400044
+    second: IndexFinger_04
+  - first:
+      4: 400046
+    second: IndexFinger_04 1
+  - first:
+      4: 400048
+    second: //RootNode
+  - first:
+      4: 400050
+    second: Shoulder_L
+  - first:
+      4: 400052
+    second: Shoulder_R
+  - first:
+      4: 400054
+    second: Thumb_01
+  - first:
+      4: 400056
+    second: Thumb_01 1
+  - first:
+      4: 400058
+    second: Thumb_02
+  - first:
+      4: 400060
+    second: Thumb_02 1
+  - first:
+      4: 400062
+    second: Thumb_03
+  - first:
+      4: 400064
+    second: Thumb_03 1
+  - first:
+      4: 400066
+    second: Hips
+  - first:
+      4: 400068
+    second: Spine
+  - first:
+      4: 400070
+    second: Foot_LegLeft
+  - first:
+      4: 400072
+    second: Foot_LegRight
+  - first:
+      4: 400074
+    second: Lower_LegLeft
+  - first:
+      4: 400076
+    second: Lower_LegRight
+  - first:
+      4: 400078
+    second: Upper_LegLeft
+  - first:
+      4: 400080
+    second: Upper_LegRight
+  - first:
+      4: 400082
+    second: Head
+  - first:
+      4: 400084
+    second: Arms_01
+  - first:
+      43: 4300000
+    second: Arms
+  - first:
+      43: 4300002
+    second: Arms_01
+  - first:
+      74: 7400000
+    second: MysticArms_Bottom
+  - first:
+      74: 7400002
+    second: MysticArms_Top
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Arms
+  - first:
+      137: 13700002
+    second: Arms_01
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MysticArms_Bottom
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Arms/Arm_Root
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01/Finger_02
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01/Finger_02/Finger_03
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01/Finger_02/Finger_03/Finger_04
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01/IndexFinger_02
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01/IndexFinger_02/IndexFinger_03
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01/IndexFinger_02/IndexFinger_03/IndexFinger_04
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Thumb_01
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Thumb_01/Thumb_02
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Thumb_01/Thumb_02/Thumb_03
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1/Finger_02
+          1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1/Finger_02
+          1/Finger_03 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1/Finger_02
+          1/Finger_03 1/Finger_04 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1/IndexFinger_02
+          1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1/IndexFinger_02
+          1/IndexFinger_03 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1/IndexFinger_02
+          1/IndexFinger_03 1/IndexFinger_04 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Thumb_01 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Thumb_01 1/Thumb_02
+          1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Thumb_01 1/Thumb_02
+          1/Thumb_03 1
+        weight: 1
+      - path: Arms/Arms_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MysticArms_Top
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 101
+      lastFrame: 180
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: Arms/Arm_Root
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01/Finger_02
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01/Finger_02/Finger_03
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Finger_01/Finger_02/Finger_03/Finger_04
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01/IndexFinger_02
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01/IndexFinger_02/IndexFinger_03
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/IndexFinger_01/IndexFinger_02/IndexFinger_03/IndexFinger_04
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Thumb_01
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Thumb_01/Thumb_02
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_L/Shoulder_L/Elbow_L/Hand_L/Thumb_01/Thumb_02/Thumb_03
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1/Finger_02
+          1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1/Finger_02
+          1/Finger_03 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Finger_01 1/Finger_02
+          1/Finger_03 1/Finger_04 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1/IndexFinger_02
+          1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1/IndexFinger_02
+          1/IndexFinger_03 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/IndexFinger_01 1/IndexFinger_02
+          1/IndexFinger_03 1/IndexFinger_04 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Thumb_01 1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Thumb_01 1/Thumb_02
+          1
+        weight: 1
+      - path: Arms/Arm_Root/Clavicle_R/Shoulder_R/Elbow_R/Hand_R/Thumb_01 1/Thumb_02
+          1/Thumb_03 1
+        weight: 1
+      - path: Arms/Arms_01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Arm_Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

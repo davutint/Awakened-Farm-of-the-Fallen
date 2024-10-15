@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f48e08babb5c0e84cb345cf4ad2a993f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229578
+  packageName: AI Tree - Behavior Trees for Unity
+  packageVersion: 1.10.1
+  assetPath: Assets/RenownedGames/AITree/Core/Editor/EditorResources/Integrations/Micosmo/SensorToolkit2.unitypackage
+  uploadId: 685856

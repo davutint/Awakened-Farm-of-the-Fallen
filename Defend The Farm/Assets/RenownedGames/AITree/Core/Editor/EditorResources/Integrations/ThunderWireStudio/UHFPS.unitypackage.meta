@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e390d959fe84ba54382ae1e4a0db518a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229578
+  packageName: AI Tree - Behavior Trees for Unity
+  packageVersion: 1.10.1
+  assetPath: Assets/RenownedGames/AITree/Core/Editor/EditorResources/Integrations/ThunderWireStudio/UHFPS.unitypackage
+  uploadId: 685856

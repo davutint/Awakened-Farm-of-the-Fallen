@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5010b7a5407384634a99213b1d0b1732
+  - enabled: 1
+    path: Assets/Scenes/Farm.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: eaa735f7895ea4a3ea7ee3cb2ace4cbd
+  - enabled: 1
+    path: Assets/Scenes/Military.unity
+    guid: 1287cfab0ed7943ca92388c44806cdb9
+  - enabled: 1
+    path: Assets/Scenes/City.unity
+    guid: d46851e2f607d4283b3db93432386b83
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 33f591010f343104f853b337a1fca25a, type: 2}
+  m_UseUCBPForAssetBundles: 0
